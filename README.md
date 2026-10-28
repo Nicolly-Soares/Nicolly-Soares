@@ -109,22 +109,6 @@ while True:
 - Design responsivo.
 - Estrutura voltada à experiência do usuário e conversão.
 
-**Projetos:** academia e consultório odontológico.
-
-_Adicione aqui os links reais dos seus repositórios e demonstrações._
-
-### `[03] BLACKFLOOW`
-
-> Conceito de produto digital para automação de cobranças.
-
-- Organização de processos financeiros.
-- Exploração de soluções digitais.
-- Foco em automação e produtividade.
-
-_Atualize esta descrição conforme o sistema evoluir._
-
----
-
 ## `root@nicolly:~$ github --stats`
 
 <div align="center">
