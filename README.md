@@ -35,11 +35,11 @@
 > Status: Always evolving_
 ```
 
-Olá! Sou estudante e desenvolvedora em formação, interessada em desenvolvimento web, análise de dados e criação de produtos digitais.
+Olá! Sou estudante de ciências atuariais, interessada em desenvolvimento web, análise de dados e criação de produtos digitais.
 
 Gosto de transformar ideias em projetos práticos, explorar novas tecnologias e construir soluções que combinem funcionalidade e design.
 
-Atualmente, estou aprimorando minhas habilidades em programação, desenvolvendo landing pages e explorando ferramentas de análise e visualização de dados.
+Atualmente, estou em fase de desenvolvimento nas minhas habilidades em programação, desenvolvendo landing pages e explorando ferramentas de análise e visualização de dados.
 
 ```python
 while True:
