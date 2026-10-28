@@ -1,245 +1,183 @@
 <div align="center">
 
-<!-- ═══════════════ NEON HEADER ═══════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080612,30:1B1038,65:7027D9,100:00F5FF&text=NICOLLY%20SOARES&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=CODE%20%E2%80%A2%20DATA%20%E2%80%A2%20INNOVATION&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:08060D,40:241039,75:6D28D9,100:A855F7&text=Nicolly%20Soares&fontColor=E9D5FF&fontSize=48&fontAlignY=38&desc=%24%20CODE%20%7C%20DATA%20%7C%20CREATIVITY&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <br>
 
-<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=Bem-vindo+ao+meu+universo+digital;Front-end+%7C+Data+Analytics;HTML+%7C+CSS+%7C+JavaScript;Explorando+Python+e+R;Transformando+ideias+em+projetos" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&lines=%24+Initializing+developer+profile...;%24+Front-end+%7C+Data+Analytics;%24+HTML+%7C+CSS+%7C+JavaScript;%24+Exploring+Python+and+R;%24+Welcome+to+my+digital+world." alt="Terminal animado"/>
 
 <br><br>
 
-<!-- ═══════════════ SOCIAL LINKS ═══════════════ -->
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0D0B14?style=for-the-badge&logo=linux&logoColor=C4B5FD&labelColor=0D0B14&color=7C3AED"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0D0B14?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0D0B14&color=581C87"/>
+
+<br><br>
 
 <a href="https://github.com/Nicolly-Soares">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BF5AF2" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D0B14?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
 </a>
-<a href="https://www.google.com/">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=BF5AF2" alt="Portfólio"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Nicolly-Soares&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Visualizações do perfil"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
+## `root@nicolly:~$ whoami`
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/01-ABOUT_ME-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</h2>
-
-```javascript
-const nicolly = {
-    nome: "Nicolly Soares",
-    foco: [
-        "Desenvolvimento Web",
-        "Landing Pages",
-        "Análise de Dados"
-    ],
-    tecnologias: {
-        frontEnd: ["HTML", "CSS", "JavaScript"],
-        data: ["Python", "R"],
-        ferramentas: ["Git", "GitHub", "VS Code"]
-    },
-    atualmente: "Aprendendo e construindo projetos",
-    objetivo: "Transformar ideias em soluções digitais"
-};
-
-console.log("Building something extraordinary...");
+```bash
+> Loading user profile...
+> Name: Nicolly Soares
+> Focus: Web Development & Data Analytics
+> Learning: Python and R
+> Mindset: Learn, build, improve.
+> Status: Always evolving_
 ```
 
-Sou estudante e desenvolvedora em formação, interessada em tecnologia, desenvolvimento web e análise de dados.
+Olá! Sou estudante e desenvolvedora em formação, interessada em desenvolvimento web, análise de dados e criação de produtos digitais.
 
-Gosto de criar páginas modernas, explorar ferramentas de programação e transformar ideias em projetos práticos.
+Gosto de transformar ideias em projetos práticos, explorar novas tecnologias e construir soluções que combinem funcionalidade e design.
 
-Estou em constante aprendizado, buscando evoluir minhas habilidades e desenvolver soluções digitais cada vez melhores.
+Atualmente, estou aprimorando minhas habilidades em programação, desenvolvendo landing pages e explorando ferramentas de análise e visualização de dados.
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
 
 ---
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/02-TECH_STACK-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</h2>
-
-<h3 align="center">✦ Desenvolvimento Web</h3>
+## `root@nicolly:~$ tech --list`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript"/>
+### `// FRONT-END`
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=FF4D6D"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-0D0B14?style=flat-square&logo=html5&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/CSS3-0D0B14?style=flat-square&logo=css3&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0B14?style=flat-square&logo=javascript&logoColor=A855F7"/>
 
-</div>
+### `// DATA & PROGRAMMING`
 
-<h3 align="center">✦ Dados e Programação</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r&theme=dark" alt="Python e R"/>
+<img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/R-0D1117?style=flat-square&logo=r&logoColor=276DC3"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/Python-0D0B14?style=flat-square&logo=python&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/R-0D0B14?style=flat-square&logo=r&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Pandas-0D0B14?style=flat-square&logo=pandas&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Streamlit-0D0B14?style=flat-square&logo=streamlit&logoColor=A855F7"/>
 
-</div>
+### `// DEV TOOLS`
 
-<h3 align="center">✦ Ferramentas</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+## `root@nicolly:~$ ls ./projects`
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/03-GITHUB_ANALYTICS-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</h2>
+### `[01] Saúde Suplementar Analytics`
 
-<div align="center">
+> Análise e visualização de dados da saúde suplementar brasileira.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nicolly-Soares&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5AF2&icon_color=00F5FF&text_color=E6EDF3&rank_icon=github" alt="Estatísticas do GitHub"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolly-Soares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5AF2&text_color=E6EDF3" alt="Linguagens dos repositórios"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolly-Soares&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=NEON%20CONTRIBUTION%20MATRIX" alt="Gráfico de contribuições"/>
-
-</div>
-
----
-
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/04-FEATURED_PROJECTS-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</h2>
-
-<h3 align="center">01 // SAÚDE SUPLEMENTAR ANALYTICS</h3>
+- Python e Pandas para manipulação de dados.
+- Streamlit para construção de dashboard.
+- Análise de beneficiários e indicadores de custos.
 
 <div align="center">
 
 <a href="https://github.com/Nicolly-Soares/Dados_Analiticos-Base_Final">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolly-Soares&repo=Dados_Analiticos-Base_Final&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF5AF2&icon_color=00F5FF" alt="Projeto de análise de dados"/>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolly-Soares&repo=Dados_Analiticos-Base_Final&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=A855F7" alt="Saúde Suplementar Analytics"/>
 </a>
 
 </div>
 
-Dashboard voltado à exploração e visualização de indicadores da saúde suplementar brasileira.
+### `[02] Landing Pages`
 
-**Tecnologias:** Python, Pandas, Streamlit e visualização de dados.
+> Desenvolvimento de páginas modernas para negócios.
 
-**Objetivo:** organizar dados, analisar indicadores e apresentar informações de maneira visual e acessível.
+- HTML, CSS e JavaScript.
+- Design responsivo.
+- Estrutura voltada à experiência do usuário e conversão.
 
-<h3 align="center">02 // LANDING PAGES</h3>
+**Projetos:** academia e consultório odontológico.
 
-<div align="center">
+_Adicione aqui os links reais dos seus repositórios e demonstrações._
 
-<img src="https://img.shields.io/badge/HTML-FF4D6D?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-00A8FF?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+### `[03] BLACKFLOOW`
 
-</div>
+> Conceito de produto digital para automação de cobranças.
 
-Desenvolvimento de landing pages modernas para negócios, com foco em responsividade, apresentação visual e conversão.
+- Organização de processos financeiros.
+- Exploração de soluções digitais.
+- Foco em automação e produtividade.
 
-**Projetos:** páginas para academia e consultório odontológico.
-
-**Objetivo:** criar experiências digitais que ajudem negócios a apresentar seus serviços e conquistar clientes.
-
-> Adicione aqui os links dos repositórios ou das demonstrações das suas landing pages.
-
-<h3 align="center">03 // BLACKFLOOW</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DIGITAL_PRODUCT-0D1117?style=for-the-badge&logo=target&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/AUTOMATION-0D1117?style=for-the-badge&logo=probot&logoColor=BF5AF2"/>
-
-</div>
-
-Conceito de produto digital voltado à organização e automação de processos de cobrança.
-
-**Objetivo:** explorar como a tecnologia pode simplificar rotinas financeiras e melhorar a organização das operações.
-
-> Atualize a descrição conforme o desenvolvimento real do projeto.
+_Atualize esta descrição conforme o sistema evoluir._
 
 ---
 
-<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/05-CONTRIBUTION_SNAKE-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</h2>
+## `root@nicolly:~$ github --stats`
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Nicolly-Soares/Nicolly-Soares/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha no gráfico de contribuições"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nicolly-Soares&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=A855F7&text_color=E9D5FF&rank_icon=github" alt="Estatísticas GitHub"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolly-Soares&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=E9D5FF" alt="Linguagens dos repositórios"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolly-Soares&bg_color=0D0B14&color=C4B5FD&line=A855F7&point=E9D5FF&area=true&hide_border=true&custom_title=TERMINAL%20ACTIVITY" alt="Atividade no GitHub"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/06-CURRENT_FOCUS-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</h2>
+## `root@nicolly:~$ ./contributions.sh`
 
 <div align="center">
 
-| Área | Objetivo |
-|:---:|:---|
-| 🌐 Web Development | Criar páginas modernas e responsivas |
-| 📊 Data Analytics | Aprimorar a análise e visualização de dados |
-| 🐍 Python | Desenvolver soluções e automatizar tarefas |
-| 📈 R | Explorar estatística e análise de dados |
-| 🚀 Digital Products | Transformar projetos em produtos digitais |
+<img width="100%" src="https://raw.githubusercontent.com/Nicolly-Soares/Nicolly-Soares/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+## `root@nicolly:~$ cat ./current_goals.txt`
+
+```text
+[+] Build modern web experiences
+[+] Improve HTML, CSS and JavaScript
+[+] Explore Python and data analysis
+[+] Develop statistical projects with R
+[+] Create useful digital products
+[+] Keep learning. Keep building.
+```
+
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=BF5AF2&center=true&vCenter=true&width=650&lines=Every+project+is+a+new+opportunity;Learning+by+building;Building+something+extraordinary..." alt="Mensagem animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%24+echo+%22Thanks+for+visiting%22;%24+Keep+learning.+Keep+building._" alt="Mensagem final animada"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-0D0B14?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=0D0B14&color=7C3AED"/>
 
 <br><br>
 
-<sub>CODE WITH PURPOSE • CREATE WITH CURIOSITY • KEEP EVOLVING</sub>
+<sub>01001110 01001001 01000011 01001111 01001100 01001100 01011001</sub>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:30105E,100:080612&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:241039,100:08060D&height=100&section=footer"/>
 
 </div>
